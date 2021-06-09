@@ -1,0 +1,32 @@
+'-' colorless (aka fallow, empty, grass)
+'g' Green (aka tree)
+'r' Red (aka house)
+'y' Yellow (aka field, wheat)
+'z' Tan (aka Train, Railroad)
+'w' Water
+
+'L' lake tile
+'S' station tile
+
+
+'#' for comment
+
+each letter represents a side of the hexagon.
+
+the 7th letter represents the center of the hexagon. This is to determine if non-adjacent sides are connected.
+the 8th number represents the amount of fields. (optional. only refers to field count)
+
+examples:
+
+------ -    : empty tile
+g-g--- -    : two tree patches, not connected.
+g-g--- g    : two tree patches, connected via the center.
+yy---- - 1  : hexagon with two sides of fields, but with with a value of 1. One field count for the quest.
+yy---- - 2  : hexagon with two sides of fields, but with with a value of 2. 
+LLLLLLLL    : Lake tile
+SSSSSSSS    : Station tile
+zzzz-- z # ***** 10,000 *****    : '#' for comment. there's a possibility that you get worse tiles as score goes up, challenges complete, secret tiles discovered, etc.
+
+
+game_*.txt lists tiles encountered when playing a game.
+The file ends when the game is over.

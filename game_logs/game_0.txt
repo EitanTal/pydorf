@@ -1,0 +1,301 @@
+gggggg -
+gggrrr g
+rr---- -
+y-ygr- -
+ggrg-- -
+------ -
+ygyggg g
+ryyyyy y
+gggyyy y
+yyyyyy y
+wyywg- w
+LLLLLLLL
+--yyyy y
+z-z--- z
+zgzggg z
+w-w--- w
+www-w- w
+wyyw-r w
+r-gr-- r
+-yy--y y
+wwyyw- w
+gryyr- -
+-rw-w- w
+gg-gg- g
+ggrg-- g
+-yy-y- y
+LLLLLLLL
+rrrry- r
+-gyygg -
+-r-ryr r
+gggggg g
+gggggg -
+LLLLLLLL
+y-y--- y
+---ryg -
+rr-rr- r
+yy--y- y
+ywg-w- w
+rryr-- r
+yy-yyr y
+yyyygg y
+gg-ggr g
+zz---- z
+yg---- -
+wwwwry w
+rr-y-y y
+rr-r-- r
+yy-y-- y
+wywggy w
+wwyy-y y
+yyyyg- y
+yyryyr y 3
+y-r-rr r
+gggggg -
+ygg-g- g
+z-z--- z
+gg-g-- g
+g-g-g- g
+rgr--- -
+rrrggg g
+zz-z-- z
+wwrzgz z
+rrr--- -
+zyz-yy z 2
+ggr-yy -
+yygy-- - 2
+rr-r-y r
+y----- -
+ggggr- g
+LLLLLLLL
+SSSSSSSS
+rr--zz z
+ggg--- g
+------ -
+rrgrg- r
+rrr--- -
+rgry-- r
+g-g--- g
+wy-w-- w
+yy--yr y
+wwyr-- -
+yy---- -
+wggwy- w
+y--yr- -
+rrr-r- r
+rrgrg- r
+g-yg-- g
+rr---- -
+wyywrr w
+LLLLLLLL
+yyzyzg z
+ww-ww- w
+ggg--- g
+rgggg- g
+yyyyr- y 2
+y-y-g- -
+wr--w- w
+yyyyy- y 2
+gg-g-- g
+yyryy- y 3
+rryrry r
+yyr-yr y 2
+rr-rrg r
+g----- -
+zz---r -
+r-gr-- -
+gggggg g
+zzyr-r r
+gr-r-r r
+ggg--- g
+rr---- -
+yyyyyy y 3
+LLLLLLLL
+ryg--- -
+wyywrr w
+y--r-- -
+rg---- -
+grry-- -
+yggy-- y 2
+g--r-- -
+zzryg- -
+ggg-g- g
+gyry-- y 2
+www--- w
+zy-yrg -
+yyyr-- y 1
+rr---- -
+z---z- z
+SSSSSSSS
+rrgyr- r
+yyr--- - 1
+ggr-g- g
+ggygrr g
+z-z--- z
+ggg-g- g
+r-g--- -
+z-z-zr z
+wwrg-g g
+rrr-r- r
+wwgygg g
+g-g-gy g
+yygy-- y 2
+yyyr-- y 1
+y-y--- y 2
+z--z-- z
+yyyy-- y 2
+ygygy- y 3
+------ -
+gg--gr g
+z--zgy z
+gggrrr g
+wwyryy y 2
+gggg-- g
+rrrrrr r
+ggg-g- g
+z--z-- z
+r-y-r- r
+yyyyg- y 2
+zy-zyg z
+r----- -
+yy-y-- y 2
+g-g--- -
+rrrggg g
+yrgr-- -
+SSSSSSSS
+yygggg - 1
+zggzgr z
+zzww-y -
+rrrrrr r
+rr-r-- -
+yyyyy- y 2
+yygggg g
+rry-r- r
+rrr--y -
+ygy-y- y 3
+yyyyyy y 3
+yryr-- y 2
+zryz-- z
+wgwggg w
+z-zy-- z
+w-w--y w
+rrrryg r
+yy-ygg y 2
+gggrg- g
+ggrg-- g
+wyw-w- w
+r----- -
+yyyyy- y 2
+wyyw-- w 2
+gggrgy -
+yr-yr- - 2
+wygw-- w
+yyy--- y 1
+yyr-y- y 2
+------ -
+yy---- y 1
+zg-zr- z
+gyr-r- -
+yrrrrr r
+yyygyr y 2
+ggrgz- g
+yyyr-- y 1
+yrg--- -
+grg--- -
+wggwy- w
+zrz--- z
+w--w-- w
+zzzz-- z
+zyyzyr z 2
+ww-ww- w
+rgr-r- r
+r----- -
+wrrw-- w ******** 10,000 ********
+y----- -
+zy-y-- y 2
+SSSSSSSS
+ryyg-- - 1
+z-z--g z
+ww--wg w
+g-gg-y g
+yy-rrr - 1
+yry--- y 2
+zr-zg- z
+zyyrz- z 1
+zgz-zr z
+yyygyg y 2
+rrry-- -
+www-w- w
+rrrgy- -
+ggg-g- -
+g-g--- -
+gg---- -
+yy--y- y 2
+gggg-- g
+yyyrrr y 1
+rr---- -
+yygyg- - 2
+yygggg - 1
+yygygr y 2
+gg--g- g
+yyyyyy y 3
+ggg-gy g
+wrw-w- w
+yg-y-- y 2
+ggygg- g
+g-g-r- g
+z----r -
+rr-rrg r
+rr---- -
+g-ggr- g
+yry--- y 2
+SSSSSSSS
+yrry-- y 2
+g--y-- -
+yyry-- y 2
+gg---- -
+gggyg- g
+y-yggr y 2
+y----- -
+gygyyr g
+rr-r-- r
+z-zww- z
+rry-rg r
+rr-r-- r
+wrw--- w
+g----- -
+g-gzr- g
+yygryg - 2
+rrryrg -
+yy-y-- y 2
+yyyygg y 2
+r-rr-- r
+zrz-z- z
+r----- -
+yy-yg- y 2
+gg--g- g
+yyyyrg y 2
+g----- -
+ryg--- -
+wgwggg w
+rrz--- -
+------ -
+rr---- -
+rrrrr- -
+y----- -
+SSSSSSSS
+rrrggg g
+ggyrg- g
+r-r--y -
+rrrrrr r
+------ -
+g-g--- g
+rr---- -
+y----- -
+z-rzr- z
+w--w-- w
+gg---- -
+zzzz-- z #  **** 15,000 ****
+gggyyr g
+zzyy-- - 1
+LLLLLLLL
